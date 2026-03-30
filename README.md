@@ -1,7 +1,7 @@
 ### 1. Clone the repository:
    ```bash
-   git clone https://github.com/TmKim0812/Intro_Robotics_Final_Prj.git
-   cd Intro_Robotics_Final_Prj
+   git clone https://github.com/mxmmbd/Safe-Path-Generation--Franka-Panda-Arm.git
+   cd Safe-Path-Generation--Franka-Panda-Arm
    ```
 
 ### 2. Create a virtual environment(Optional but recommended):
